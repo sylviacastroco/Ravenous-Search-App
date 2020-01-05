@@ -1,6 +1,6 @@
 # Ravenous - A Restaurant Search App built with React
 
-Ravenouse is a restaurance search application built with React for Codeccademy's Pro Intensive - Build Front End Web Applications from Scratch.
+Ravenous is a restaurance search application built with React for Codeccademy's Pro Intensive - Build Front End Web Applications from Scratch.
 
 ### Installing
 
