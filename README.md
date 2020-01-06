@@ -1,6 +1,6 @@
 # Ravenous - A Restaurant Search App built with React
 
-Ravenous is a restaurance search application built with React for Codeccademy's Pro Intensive - Build Front End Web Applications from Scratch.
+Ravenous is a restaurant search application built with React and the Yelp API. Challenge given to me by Codecademy.
 
 ### Installing
 
